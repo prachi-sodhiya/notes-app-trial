@@ -1,3 +1,13 @@
+In this Angular application we can make our daily notes, delete them , Edit them.
+•	Used HTML, SCSS to design the pages.
+•	Used Angular component, Routing, Services, Filters and Angular Forms.
+•	Used Bulma CSS framework.
+
+
+
+
+
+
 # NotesFrontend
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.4.
